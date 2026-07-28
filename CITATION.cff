@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Office 365 Unified Audit Log Dataset (BEC)"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - name: "Invictus IR"
+    website: "https://www.invictus-ir.com"
+url: "https://github.com/invictus-ir/o365_dataset"
+repository-code: "https://github.com/invictus-ir/o365_dataset"
+keywords:
+  - Office 365
+  - Microsoft 365
+  - Unified Audit Log
+  - business email compromise
+  - detection engineering
+  - threat hunting
+  - security dataset
+license: CC-BY-4.0
